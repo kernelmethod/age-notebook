@@ -1,0 +1,7 @@
+# Virtual environment
+venv
+
+# Python residuals
+*__pycache__
+*.pyc
+*.egg-info
